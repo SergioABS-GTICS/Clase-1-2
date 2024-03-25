@@ -1,5 +1,7 @@
 # Clase-1-2
 
+## ----------------- Envío de Información de la vista Objeto Model (Vistas) al Controller -----------------
+
 ## Recepción de parámetros GET y POST
 
 Hay 2 formas de recibir parámetros: @RequestParam y @PathVariable
@@ -20,7 +22,20 @@ La principal diferencia radica en la forma de pasarse los datos
 
 ## RequestParam (Post)
 
-Se usa el método de recepcipión RequestParam para los Post (cuando vengan de un forms)
+Se usa el método de recepcipión RequestParam para los Post (cuando vengan de un forms):
+
 ![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/5bdef896-9b66-4ae8-9150-f18205dc49b1)
+
+## ----------------- Envío de Información del Controller a la vista Objeto Model -----------------
+
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/a84004bf-5e86-46ad-9e78-060b93198b24)
+
+
+
+
+
+
+
+
 
 
