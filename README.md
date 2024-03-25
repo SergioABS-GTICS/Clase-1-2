@@ -54,6 +54,9 @@ Resultados:
 
 ![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/e505b2b2-8dc7-45a7-9655-bec1ef7521d7)
 
+**También se pueden enviar objetos**
+
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/679c34b8-b3ec-41d3-a2c2-2b5d900a1800)
 
 
 
