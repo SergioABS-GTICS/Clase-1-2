@@ -31,8 +31,19 @@ Se usa el método de recepcipión RequestParam para los Post (cuando vengan de u
 ![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/b479ae65-50ae-49b6-8859-491d87c0475d)
 
 
-![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/a84004bf-5e86-46ad-9e78-060b93198b24)
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/1406a6f2-3c7e-44c7-9a51-dfb495e8aa62)
 
+
+Paso 1) Enviar los parámetros desde el controller a la vista
+
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/91e87d3e-21b4-4a51-8926-1ec43afaf6ef)
+
+Paso 2) Recepcionar los parámetros en la vista
+
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/9ae41a82-2663-4e1e-9f05-120765e39380)
+
+Resultados:
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/c7c28c20-13d3-4a68-932c-b1ea885fccf1)
 
 
 
