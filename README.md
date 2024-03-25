@@ -43,7 +43,18 @@ Paso 2) Recepcionar los parámetros en la vista
 ![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/9ae41a82-2663-4e1e-9f05-120765e39380)
 
 Resultados:
+
 ![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/c7c28c20-13d3-4a68-932c-b1ea885fccf1)
+
+**Se pueden enviar varios parámetros a la vista**
+
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/37cad46d-8e66-46c5-bf78-b55739ad3680)
+
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/f7c1c92a-fb7b-477a-a24a-73dd01fbaf56)
+
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/e505b2b2-8dc7-45a7-9655-bec1ef7521d7)
+
+
 
 
 
