@@ -17,5 +17,10 @@ Hay 2 formas de recibir parámetros: @RequestParam y @PathVariable
 ![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/938e5eb2-3f51-422f-b945-e53c679762d8)
 
 La principal diferencia radica en la forma de pasarse los datos 
-.
+
+## RequestParam (Post)
+
+Se usa el método de recepcipión RequestParam para los Post (cuando vengan de un forms)
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/5bdef896-9b66-4ae8-9150-f18205dc49b1)
+
 
