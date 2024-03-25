@@ -28,6 +28,9 @@ Se usa el método de recepcipión RequestParam para los Post (cuando vengan de u
 
 ## ----------------- Envío de Información del Controller a la vista Objeto Model -----------------
 
+![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/b479ae65-50ae-49b6-8859-491d87c0475d)
+
+
 ![image](https://github.com/SergioABS-GTICS/Clase-1-2/assets/154263057/a84004bf-5e86-46ad-9e78-060b93198b24)
 
 
